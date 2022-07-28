@@ -22,7 +22,7 @@ Projeto e melhorias SAP (Daniel + BP's)
 4. O Processo é Realizado 100% no SAP?
 5. O objetivo envolve uma CONTRATAÇÃO de fontes externas (Sites, API's, Consultorias, softwares...)?
        
-         https://copersucar.sharepoint.com/sites/OTCPTP/_layouts/15/FormServer.aspx?XsnLocation=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FRN_Safra_18_19%2FForms%2Ftemplate.xsn&SaveLocation=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FRN_Safra_18_19&ClientInstalled=false&DefaultItemOpen=1&Source=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FSitePages%2FConsulta+RN+18_19.aspx&OR=Teams-HL&CT=1655213178952&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9       
+         https://copersucar.sharepoint.com/sites/OTCPTP/_layouts/15/FormServer.aspx?XsnLocation=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FRN_Safra_18_19%2FForms%2Ftemplate.xsn&SaveLocation=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FRN_Safra_18_19&ClientInstalled=false&DefaultItemOpen=1&Source=https%3A%2F%2Fcopersucar.sharepoint.com%2Fsites%2FOTCPTP%2FSitePages%2FConsulta+RN+18_19.aspx&OR=Teams-HL&CT=1655213178952&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9 <br>       
 Kaizen (Ademilson + Melhorias Operacionais)
 <br>
 <br>
